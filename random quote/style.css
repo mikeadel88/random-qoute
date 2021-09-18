@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#btn{
+    padding: 2rem;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: red;
+}
+h2{
+    font-size: 3rem;
+}
+h3{
+    font-size: 2rem;
+}
+h1{
+    font-size: 5rem;
+}
